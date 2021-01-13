@@ -1,0 +1,2562 @@
+[
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": false,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": true,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": true,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": true,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": true,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": true,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": false
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": true,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": true
+    },
+    {
+        "motor_1": true,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    },
+    {
+        "motor_1": false,
+        "motor_2": false,
+        "motor_3": false,
+        "motor_4": false,
+        "motor_5": false,
+        "motor_6": false,
+        "motor_7": false,
+        "motor_8": false
+    }
+]

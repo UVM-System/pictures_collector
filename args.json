@@ -1,0 +1,20 @@
+{
+  "serialPort": [
+    "/dev/ttyUSB0"
+  ],
+  "serialPorts": [
+    "/dev/ttyACM0",
+    "/dev/ttyACM1",
+    "/dev/ttyUSB0"
+  ],
+  "instructions": {
+    "motor_1": ["a","b","c","d"],
+    "motor_2": ["e","f","g","h"],
+    "motor_3": ["i","j","k","l"],
+    "motor_4": ["m","n","o","p"],
+    "motor_5": ["q","r","s","t"],
+    "motor_6": ["u","v","w","x"],
+    "motor_7": ["2","3","4","5"],
+    "motor_8": ["6","7","8","9"]
+  }
+}
